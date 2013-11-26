@@ -1,10 +1,9 @@
 {
-  "name": "bitcatcher",
+  "name": "bitcatcher-slurpers",
   "version": "0.0.1",
-  "description": "Collect bitcoin market data",
+  "description": "scripts for collecting bitcoin market data",
   "keywords": [
-    "bitcoin",
-    "foundationdb"
+    "bitcoin"
   ],
   "homepage": "http://enja.org",
   "author": {
@@ -16,7 +15,7 @@
     "url": "http://github.com/enjalot/bitcatcher.git"
   },
   "dependencies": {
-    "express":"~3.4",
+    "request":"~2.27",
     "fdb": "1.0.1"
   }
 }
