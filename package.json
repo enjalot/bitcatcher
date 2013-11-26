@@ -1,0 +1,21 @@
+{
+  "name": "bitcatcher",
+  "version": "0.0.1",
+  "description": "Collect bitcoin market data",
+  "keywords": [
+    "bitcoin",
+    "foundationdb"
+  ],
+  "homepage": "http://enja.org",
+  "author": {
+    "name": "Ian Johnson",
+    "url": "http://enja.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/enjalot/bitcatcher.git"
+  },
+  "dependencies": {
+    "fdb": "1.0.1"
+  }
+}
